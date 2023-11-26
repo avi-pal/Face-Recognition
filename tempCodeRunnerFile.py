@@ -1,0 +1,1 @@
+img_encoding2 = face_recognition.face_encodings(rgb_img2)[0]
